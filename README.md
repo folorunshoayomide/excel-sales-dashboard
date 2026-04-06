@@ -79,7 +79,11 @@ Based on the feedback, the dashboard was redesigned to:
 - A small number of products contribute significantly to total revenue 
 
  📸 Dashboard Preview
+Initial Dashboard
+![Initial Dashboard](initial.png)
 
+Improved Dashboard
+![Improved Dashboard](improved.png)
 
 
  🚀 What I Learned
