@@ -80,10 +80,10 @@ Based on the feedback, the dashboard was redesigned to:
 
  📸 Dashboard Preview
 Initial Dashboard
-![Initial Dashboard](initial.png)
+![Initial Dashboard](Initial.png)
 
 Improved Dashboard
-![Improved Dashboard](improved.png)
+![Improved Dashboard](Improved.png)
 
 
  🚀 What I Learned
